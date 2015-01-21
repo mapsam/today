@@ -1,8 +1,18 @@
 # today
 In one sentence, what did I do today?
 
-## January
+**JSON schema**
 
-* **1/1**: 
-* ...
-* **1/21**: Code for America hosted panel sessions in regards to open data and city's perspectives of the fellowship process.
+```
+{
+  "date": "2015-01-20 00:00:00",
+  "note": "One sentence.",
+  "link": "http://to-something.that-is-interest.ing/or-related",
+  "geometry": {
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    }
+  }
+}
+```
