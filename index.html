@@ -1,6 +1,6 @@
 <html lang="en">
 <head>
-  <title>hello world</title>
+  <title>Today</title>
   <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
   <script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
   <script src="today.js"></script>
@@ -13,10 +13,21 @@
 </head>
 <body>
   <p>Waka!</p>
+
+  <ul id="days"></ul>
+
   <script>
   function init_app () {
-      window.App = window.App || {};
-      App.today = new today();
+    $.ajax({
+      url: 'today.json',
+      success: success
+    });
+    function success(data) {
+      window.T = new Today({
+        data: data,
+        id: 'days'
+      });
+    }
   };
   window.onload = init_app;  </script>
 </body>
