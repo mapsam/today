@@ -1,0 +1,23 @@
+<html lang="en">
+<head>
+  <title>hello world</title>
+  <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+  <script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+  <script src="today.js"></script>
+  <style>
+  body {
+    padding:0;
+    margin:0;
+  }
+  </style>
+</head>
+<body>
+  <p>Waka!</p>
+  <script>
+  function init_app () {
+      window.App = window.App || {};
+      App.today = new today();
+  };
+  window.onload = init_app;  </script>
+</body>
+</html>

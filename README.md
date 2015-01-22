@@ -9,6 +9,7 @@ In one sentence, what did I do today?
   "note": "One sentence.",
   "link": "http://to-something.that-is-interest.ing/or-related",
   "geometry": {
+    "location": "",
     "coordinates": {
       "latitude": 0,
       "longitude": 0
