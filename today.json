@@ -136,10 +136,10 @@
     "note": "Morning talk by Tim O'Reily to kickoff the first Code for America Build Week.",
     "link": "",
     "geometry": {
-      "location": "",
+      "location": "Code for America",
       "coordinates": {
-        "latitude": 0,
-        "longitude": 0
+        "latitude": 37.775658,
+        "longitude": -122.413773
       }
     }
   },
@@ -148,10 +148,10 @@
     "note": "",
     "link": "",
     "geometry": {
-      "location": "",
+      "location": "Code for America",
       "coordinates": {
-        "latitude": 0,
-        "longitude": 0
+        "latitude": 37.775658,
+        "longitude": -122.413773
       }
     }
   },
@@ -160,10 +160,10 @@
     "note": "",
     "link": "",
     "geometry": {
-      "location": "",
+      "location": "Code for America",
       "coordinates": {
-        "latitude": 0,
-        "longitude": 0
+        "latitude": 37.775658,
+        "longitude": -122.413773
       }
     }
   },
@@ -172,10 +172,10 @@
     "note": "",
     "link": "",
     "geometry": {
-      "location": "",
+      "location": "Code for America",
       "coordinates": {
-        "latitude": 0,
-        "longitude": 0
+        "latitude": 37.775658,
+        "longitude": -122.413773
       }
     }
   },
@@ -184,10 +184,10 @@
     "note": "Alpha: final presentations for Build Week at Code for America with drinks afterwards with some fellows.",
     "link": "",
     "geometry": {
-      "location": "",
+      "location": "Code for America",
       "coordinates": {
-        "latitude": 0,
-        "longitude": 0
+        "latitude": 37.775658,
+        "longitude": -122.413773
       }
     }
   },
@@ -208,10 +208,10 @@
     "note": "Helped Sean & Maxine with some yard work to clear out space for the shed.",
     "link": "",
     "geometry": {
-      "location": "",
+      "location": "Sean & Max's house.",
       "coordinates": {
-        "latitude": 0,
-        "longitude": 0
+        "latitude": 37.879042,
+        "longitude": -122.286437
       }
     }
   },
@@ -220,10 +220,10 @@
     "note": "Martin Luther King Day - Met with Emma & Chris in downtown Berkeley and explored the campus.",
     "link": "https://gist.github.com/svmatthews/75afc9142f18d909850f",
     "geometry": {
-      "location": "",
+      "location": "UC Berkeley",
       "coordinates": {
-        "latitude": 0,
-        "longitude": 0
+        "latitude": 37.871797,
+        "longitude": -122.258669
       }
     }
   },
@@ -232,10 +232,10 @@
     "note": "Downtown San Francisco treasure hunt near the Embarcaderro and China Town.",
     "link": "http://pivotallabs.com/javascript-constructors-prototypes-and-the-new-keyword/",
     "geometry": {
-      "location": "",
+      "location": "Embarcaderro",
       "coordinates": {
-        "latitude": 0,
-        "longitude": 0
+        "latitude": 37.794380,
+        "longitude": -122.396177
       }
     }
   },
@@ -244,22 +244,22 @@
     "note": "Code for America hosted panel sessions in regards to open data and city's perspectives of the fellowship process & purchased tickets to Richmond, VA!",
     "link": "",
     "geometry": {
-      "location": "",
+      "location": "Code for America",
       "coordinates": {
-        "latitude": 0,
-        "longitude": 0
+        "latitude": 37.775658,
+        "longitude": -122.413773
       }
     }
   },
   {
     "date": "2015-01-22",
-    "note": "",
-    "link": "",
+    "note": "Feeling inspired after a talk from Todd Park, former CTO of the US and pivitol in the revamp of healthcare dot gov.",
+    "link": "http://blog-assets.newrelic.com/wp-content/uploads/80893.pdf",
     "geometry": {
-      "location": "",
+      "location": "Code for America",
       "coordinates": {
-        "latitude": 0,
-        "longitude": 0
+        "latitude": 37.775658,
+        "longitude": -122.413773
       }
     }
   },
