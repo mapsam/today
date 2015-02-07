@@ -265,25 +265,25 @@
   },
   {
     "date": "2015-01-23",
-    "note": "",
+    "note": "Outing to Point Bonita with Code for America.",
     "link": "",
     "geometry": {
-      "location": "",
+      "location": "Rodeo Cove",
       "coordinates": {
-        "latitude": 0,
-        "longitude": 0
+        "latitude": 37.829139,
+        "longitude": -122.535762
       }
     }
   },
   {
     "date": "2015-01-24",
-    "note": "",
+    "note": "Played softball at Lowell Park in West Oakland.",
     "link": "",
     "geometry": {
-      "location": "",
+      "location": "Lowell Park",
       "coordinates": {
-        "latitude": 0,
-        "longitude": 0
+        "latitude": 37.808570,
+        "longitude": -122.283559
       }
     }
   },
@@ -301,7 +301,7 @@
   },
   {
     "date": "2015-01-26",
-    "note": "",
+    "note": "Papa Matthews visited at Code for America and had dinner at Sean & Max's house.",
     "link": "",
     "geometry": {
       "location": "",
@@ -313,133 +313,133 @@
   },
   {
     "date": "2015-01-27",
-    "note": "",
+    "note": "Went clothes shopping for fancy clothes and officially own a pair of Chinos now.",
     "link": "",
     "geometry": {
-      "location": "",
+      "location": "Uniqlo",
       "coordinates": {
-        "latitude": 0,
-        "longitude": 0
+        "latitude": 37.785909,
+        "longitude": -122.407682
       }
     }
   },
   {
     "date": "2015-01-28",
-    "note": "",
+    "note": "Dinner with the Health Team at Pizza Hacker.",
     "link": "",
     "geometry": {
       "location": "",
       "coordinates": {
-        "latitude": 0,
-        "longitude": 0
+        "latitude": 37.744034,
+        "longitude": -122.420471
       }
     }
   },
   {
     "date": "2015-01-29",
-    "note": "",
+    "note": "Last full day of training ",
     "link": "",
     "geometry": {
-      "location": "",
+      "location": "Code for America",
       "coordinates": {
-        "latitude": 0,
-        "longitude": 0
+        "latitude": 37.775658,
+        "longitude": -122.413773
       }
     }
   },
   {
     "date": "2015-01-30",
-    "note": "",
+    "note": "Final day of training at Code for America with breakfast and many salutations to the training crew.",
     "link": "",
     "geometry": {
-      "location": "",
+      "location": "Code for America",
       "coordinates": {
-        "latitude": 0,
-        "longitude": 0
+        "latitude": 37.775658,
+        "longitude": -122.413773
       }
     }
   },
   {
     "date": "2015-01-31",
-    "note": "",
+    "note": "Relaxing afternoon with Sean & Maxine at the Lost & Found beer garden.",
     "link": "",
     "geometry": {
-      "location": "",
+      "location": "Lost & Found",
       "coordinates": {
-        "latitude": 0,
-        "longitude": 0
+        "latitude": 37.809895,
+        "longitude": -122.269240
       }
     }
   },
   {
     "date": "2015-02-01",
-    "note": "",
+    "note": "Departed for Richmond, VA but was rerouted away from Chicago because of a super blizzard.",
     "link": "",
     "geometry": {
-      "location": "",
+      "location": "O'Hare International Airport",
       "coordinates": {
-        "latitude": 0,
-        "longitude": 0
+        "latitude": 41.989092,
+        "longitude": -87.929117
       }
     }
   },
   {
     "date": "2015-02-02",
-    "note": "",
+    "note": "Stayed the night in Chicago and made my way to Philadelphia but the flight was delayed and I missed my connection to Richmond. :(",
     "link": "",
     "geometry": {
-      "location": "",
+      "location": "Sheraton Hotel",
       "coordinates": {
-        "latitude": 0,
-        "longitude": 0
+        "latitude": 41.889084,
+        "longitude": -87.619469
       }
     }
   },
   {
     "date": "2015-02-03",
-    "note": "",
+    "note": "Finally made it to Richmond where I worked with Andreas Addison, Ben & Emma on the beginning of our month of research.",
     "link": "",
     "geometry": {
-      "location": "",
+      "location": "Urban Farmhouse",
       "coordinates": {
-        "latitude": 0,
-        "longitude": 0
+        "latitude": 37.535372,
+        "longitude": -77.434059
       }
     }
   },
   {
     "date": "2015-02-04",
-    "note": "",
+    "note": "First Code for RVA meeting preparing for the CodeAcross event coming up at the end of February.",
     "link": "",
     "geometry": {
-      "location": "",
+      "location": "Meeting spot.",
       "coordinates": {
-        "latitude": 0,
-        "longitude": 0
+        "latitude": 37.570253,
+        "longitude": -77.469002
       }
     }
   },
   {
     "date": "2015-02-05",
-    "note": "",
+    "note": "After a day of talking about health data, made an italian stuffed shells and Ricotta dinner with Ben & Emma.",
     "link": "",
     "geometry": {
-      "location": "",
+      "location": "Richmond City Health Department",
       "coordinates": {
-        "latitude": 0,
-        "longitude": 0
+        "latitude": 37.540322,
+        "longitude": -77.440954
       }
     }
   },
   {
     "date": "2015-02-06",
-    "note": "",
+    "note": "Fantastic day of interviewing and talking with community health coordinators here in Richmond AND Ben's birthday at Mamma Zu's italian restaurant.",
     "link": "",
     "geometry": {
-      "location": "",
+      "location": "Mamma Zus Italian Restaurant",
       "coordinates": {
-        "latitude": 0,
-        "longitude": 0
+        "latitude": 37.539016,
+        "longitude": -77.450298
       }
     }
   },

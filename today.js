@@ -7,23 +7,19 @@ var Today = function(options) {
 }
 
 Today.prototype.list = function() {
-  var list = this.options.id;
+  var list = document.getElementById(this.options.id);
   for (var e = 0; e < this.data.length; e++) {
-    buildDay(this.data[e], list);
+    var date = new Date(this.data[e].date);
+    if (date < this.now) list.appendChild(buildDay(this.data[e]));
   }
 
-  function buildDay(day, id) {
-    var list = document.getElementById(id),
-        li = document.createElement('li'),
+  function buildDay(day) {
+    var li = document.createElement('li'),
         d = new Date(day.date),
         n = new Date();
     li.innerHTML = day.note;
     li.className = 'day';
-    if (d == n) {
-      li.className += ' today';
-    }
-    list.appendChild(li);
-
+    return li;
   }
 }
 

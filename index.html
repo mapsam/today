@@ -12,23 +12,30 @@
   </style>
 </head>
 <body>
-  <p>Waka!</p>
 
   <ul id="days"></ul>
 
   <script>
   function init_app () {
+    
     $.ajax({
       url: 'today.json',
       success: success
     });
+
     function success(data) {
+      
       window.T = new Today({
         data: data,
         id: 'days'
       });
+
+      T.list();
     }
   };
-  window.onload = init_app;  </script>
+
+  window.onload = init_app;
+  </script>
+
 </body>
 </html>
