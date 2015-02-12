@@ -2,9 +2,26 @@
 
 var Today = function(options) {
   this.options = options || {};
+  this.initHandlers();
   this.data = options.data;
   this.now = new Date();
 }
+
+Today.prototype.initHandlers = function() {
+  document.getElementById('days').onclick = this.handlers.nav.click;
+}
+
+Today.prototype.handlers = {
+  nav: {
+    click: function() {
+      console.log('waka');
+    },
+    submit: function() {
+      return this.click();
+    }
+  }
+}
+
 
 Today.prototype.list = function() {
   var list = document.getElementById(this.options.id);

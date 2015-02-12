@@ -76,58 +76,58 @@
     "note": "First day at Code for America!",
     "link": "",
     "geometry": {
-      "location": "",
+      "location": "Code for America",
       "coordinates": {
-        "latitude": 0,
-        "longitude": 0
+        "latitude": 37.775658,
+        "longitude": -122.413773
       }
     }
   },
   {
     "date": "2015-01-08",
-    "note": "",
-    "link": "",
+    "note": "Learned more about the specific cities that Code for America is working with this year.",
+    "link": "http://www.codeforamerica.org/governments/2015-cities/",
     "geometry": {
-      "location": "",
+      "location": "Code for America",
       "coordinates": {
-        "latitude": 0,
-        "longitude": 0
+        "latitude": 37.775658,
+        "longitude": -122.413773
       }
     }
   },
   {
     "date": "2015-01-09",
-    "note": "",
-    "link": "",
+    "note": "Lively negotiation training with David Eaves; throwing many 30's.",
+    "link": "http://eaves.ca/about-david/",
     "geometry": {
-      "location": "",
+      "location": "Code for America",
       "coordinates": {
-        "latitude": 0,
-        "longitude": 0
+        "latitude": 37.775658,
+        "longitude": -122.413773
       }
     }
   },
   {
     "date": "2015-01-10",
-    "note": "",
+    "note": "Purchased the Lord of the Rings trilogy at Barnes & Noble.",
     "link": "",
     "geometry": {
-      "location": "",
+      "location": "Barnes & Noble",
       "coordinates": {
-        "latitude": 0,
-        "longitude": 0
+        "latitude": 37.900977,
+        "longitude": -122.300884
       }
     }
   },
   {
     "date": "2015-01-11",
-    "note": "",
+    "note": "Yard work with Sean & Maxine at their house, as well as dinner at Maxine's parent's house.",
     "link": "",
     "geometry": {
-      "location": "",
+      "location": "Milbrae, CA",
       "coordinates": {
-        "latitude": 0,
-        "longitude": 0
+        "latitude": 37.591686,
+        "longitude": -122.401926
       }
     }
   },
@@ -169,7 +169,7 @@
   },
   {
     "date": "2015-01-15",
-    "note": "",
+    "note": "Andreas Addison, our city partner in Richmond, visits the CfA office.",
     "link": "",
     "geometry": {
       "location": "Code for America",
@@ -445,73 +445,73 @@
   },
   {
     "date": "2015-02-07",
-    "note": "",
+    "note": "Went on a super long walk around Richmond, explored Monument Avenue, lunch at Mama J's, and a long walk along the river.",
     "link": "",
     "geometry": {
-      "location": "",
+      "location": "James River",
       "coordinates": {
-        "latitude": 0,
-        "longitude": 0
+        "latitude": 37.529238,
+        "longitude": -77.472353
       }
     }
   },
   {
     "date": "2015-02-08",
-    "note": "",
+    "note": "Spent most of the day working at Starbucks in Carytown.",
     "link": "",
     "geometry": {
-      "location": "",
+      "location": "Starbucks",
       "coordinates": {
-        "latitude": 0,
-        "longitude": 0
+        "latitude": 37.555447,
+        "longitude": -77.488819
       }
     }
   },
   {
     "date": "2015-02-09",
-    "note": "",
+    "note": "My Birthday! Got BBQ for dinner at Alamo.",
     "link": "",
     "geometry": {
-      "location": "",
+      "location": "Alamo BBQ",
       "coordinates": {
-        "latitude": 0,
-        "longitude": 0
+        "latitude": 37.534997,
+        "longitude": -77.419505
       }
     }
   },
   {
     "date": "2015-02-10",
-    "note": "",
+    "note": "Had a great brainstorming session with the RVA team at our house, which led to a more concrete overview of what we've learned so far.",
     "link": "",
     "geometry": {
-      "location": "",
+      "location": "Our House",
       "coordinates": {
-        "latitude": 0,
-        "longitude": 0
+        "latitude": 37.554639,
+        "longitude": -77.479357
       }
     }
   },
   {
     "date": "2015-02-11",
-    "note": "",
-    "link": "",
+    "note": "Fantastic community meeting at the Peter Paul Development Center.",
+    "link": "http://www.peterpauldevcenter.org/",
     "geometry": {
-      "location": "",
+      "location": "Peter Paul Development Center",
       "coordinates": {
-        "latitude": 0,
-        "longitude": 0
+        "latitude": 37.545972,
+        "longitude": -77.409829
       }
     }
   },
   {
     "date": "2015-02-12",
-    "note": "",
+    "note": "Shadowed a case manager at Bon Secours Community Hopsital to learn more about their workflow and process.",
     "link": "",
     "geometry": {
-      "location": "",
+      "location": "Bon Secours Community Hopsital",
       "coordinates": {
-        "latitude": 0,
-        "longitude": 0
+        "latitude": 37.540253,
+        "longitude": -77.406988
       }
     }
   },
