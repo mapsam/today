@@ -517,121 +517,121 @@
   },
   {
     "date": "2015-02-13",
-    "note": "",
+    "note": "Happy hour with Andreas & Danny at The Boathouse.",
     "link": "",
     "geometry": {
-      "location": "",
+      "location": "The Boathouse",
       "coordinates": {
-        "latitude": 0,
-        "longitude": 0
+        "latitude": 37.518046,
+        "longitude": -77.416061
       }
     }
   },
   {
     "date": "2015-02-14",
-    "note": "",
-    "link": "",
+    "note": "Spent valentines day working on the UW Europe map built in d3.",
+    "link": "https://github.com/svmatthews/uw-europe",
     "geometry": {
-      "location": "",
+      "location": "Capital Coffee & Desserts",
       "coordinates": {
-        "latitude": 0,
-        "longitude": 0
+        "latitude": 37.552535,
+        "longitude": -77.478389
       }
     }
   },
   {
     "date": "2015-02-15",
-    "note": "",
-    "link": "",
+    "note": "Classical Incarnations night with Code for RVA folks, listening to classical music at a bar.",
+    "link": "http://classicalrevolutionrva.com/events/classical-incarnations/",
     "geometry": {
-      "location": "",
+      "location": "Balliceaux",
       "coordinates": {
-        "latitude": 0,
-        "longitude": 0
+        "latitude": 37.550113,
+        "longitude": -77.459266
       }
     }
   },
   {
     "date": "2015-02-16",
-    "note": "",
-    "link": "",
+    "note": "Built Cityscape, a project to gather SVG silouhettes of major cities around the world, during President's day.",
+    "link": "http://mapsam.com/cityscape",
     "geometry": {
-      "location": "",
+      "location": "Homebase in Richmond, VA",
       "coordinates": {
-        "latitude": 0,
-        "longitude": 0
+        "latitude": 37.554674,
+        "longitude": -77.479524
       }
     }
   },
   {
     "date": "2015-02-17",
-    "note": "",
-    "link": "",
+    "note": "Snow day in Richmond with the arrival of Rebecca from Code for America and dinner at Buz & Ned's BBQ.",
+    "link": "http://buzandneds.com/",
     "geometry": {
-      "location": "",
+      "location": "Buz and Ned's",
       "coordinates": {
-        "latitude": 0,
-        "longitude": 0
+        "latitude": 37.565261,
+        "longitude": -77.468212
       }
     }
   },
   {
     "date": "2015-02-18",
-    "note": "",
-    "link": "",
+    "note": "Enjoyed Dave's arrival to Richmond and spent time talking about our project, with dinner at the Pig & Pearl.",
+    "link": "http://thepigandpearl.com/",
     "geometry": {
-      "location": "",
+      "location": "The Pig & Pearl",
       "coordinates": {
-        "latitude": 0,
-        "longitude": 0
+        "latitude": 37.557654,
+        "longitude": -77.462508
       }
     }
   },
   {
     "date": "2015-02-19",
-    "note": "",
+    "note": "Tried to interview people at the social services building downtown but we were removed from the property by security :(",
     "link": "",
     "geometry": {
-      "location": "",
+      "location": "Richmond Social Services Department",
       "coordinates": {
-        "latitude": 0,
-        "longitude": 0
+        "latitude": 37.541830,
+        "longitude": -77.432289
       }
     }
   },
   {
     "date": "2015-02-20",
-    "note": "",
+    "note": "Lunch with Aneesh Chopra and Monster Truck rally at the coliseum!",
     "link": "",
     "geometry": {
-      "location": "",
+      "location": "Richmond Coliseum",
       "coordinates": {
-        "latitude": 0,
-        "longitude": 0
+        "latitude": 37.544569,
+        "longitude": -77.434473
       }
     }
   },
   {
     "date": "2015-02-21",
-    "note": "",
-    "link": "",
+    "note": "2015 Code Across event with Code for RVA, worked on their STI application.",
+    "link": "https://github.com/codeforrva/sti",
     "geometry": {
-      "location": "",
+      "location": "INM United",
       "coordinates": {
-        "latitude": 0,
-        "longitude": 0
+        "latitude": 37.571312,
+        "longitude": -77.469417
       }
     }
   },
   {
     "date": "2015-02-22",
-    "note": "",
-    "link": "",
+    "note": "Spent the afternoon reading books at the Jefferson Hotel with Emma, and pushed updates to mapsam.com",
+    "link": "https://github.com/svmatthews/svmatthews.github.io/commit/31f90a050c513ea32b3a7edf30d6effc4bf2413a",
     "geometry": {
-      "location": "",
+      "location": "The Jefferson",
       "coordinates": {
-        "latitude": 0,
-        "longitude": 0
+        "latitude": 37.544340,
+        "longitude": -77.445603
       }
     }
   },
